@@ -1,6 +1,4 @@
-export class BatteryService {
-  constructor() {}
-  getModelData(): Object {
+export function getModelData() {
     return {
       '60': {
         19: {
@@ -1288,4 +1286,3 @@ export class BatteryService {
       }
     };
   }
-}
