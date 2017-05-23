@@ -8,12 +8,12 @@
 
 TO VIEW THE APPLICATION LIVE [Click Here](http://breakable-temper.surge.sh)
 
-[] Display range of distance travel in default 
-[] Calculate range on the Model ( X, S, 3S )
-[] Tesla Models
-  [] Model X
-  [] Model 3S
-  [] Model P00X
+- [ ] Display range of distance travel in default 
+- [ ] Calculate range on the Model ( X, S, 3S )
+- [ ] Tesla Models
+ - [ ] Model X
+ - [ ] Model 3S
+ - [ ] Model P00X
 
 TESLA Application.
 ==
