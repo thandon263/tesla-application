@@ -13,7 +13,7 @@ TO VIEW THE APPLICATION LIVE [Click Here](http://breakable-temper.surge.sh)
 - [ ] Tesla Models
  - [ ] Model X
  - [ ] Model 3S
- - [ ] Model P00X
+ - [ ] Model (P100D)Battery Types.
 
 TESLA Application.
 =
