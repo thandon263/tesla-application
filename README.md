@@ -17,4 +17,4 @@ TO VIEW THE APPLICATION LIVE [Click Here](http://breakable-temper.surge.sh)
 
 TESLA Application.
 =
-> by Thando Ncube
+> by Thando Ncube.
