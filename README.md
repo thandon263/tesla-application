@@ -8,12 +8,12 @@
 
 TO VIEW THE APPLICATION LIVE [Click Here](http://breakable-temper.surge.sh)
 
-- [ ] Display range of distance travel in default 
-- [ ] Calculate range on the Model ( X, S, 3S )
-- [ ] Tesla Models
- - [ ] Model X
+- [x] Display range of distance travel in default 
+- [x] Calculate range on the Model ( X, S, 3S )
+- [x] Tesla Battery Types.
+ -> [x] Model X
  - [ ] Model 3S
- - [ ] Model (P100D)Battery Types.
+ - [ ] Model (P100D)
 
 TESLA Application.
 =
